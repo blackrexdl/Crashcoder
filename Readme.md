@@ -1,8 +1,8 @@
-# Crashcoders
+# Tech-thrives
 
 ## Project Overview
 
-Welcome to **Crashcoders**! We have developed a professional website that aims to showcase hidden gems in various countries—places that are often overlooked by travelers. Our mission is to bring attention to these beautiful locations, providing users with the opportunity to explore and discover new destinations.
+Welcome to **Tech-thrives**! We have developed a professional website that aims to showcase hidden gems in various countries—places that are often overlooked by travelers. Our mission is to bring attention to these beautiful locations, providing users with the opportunity to explore and discover new destinations.
 
 ## Team Members
 
@@ -35,4 +35,4 @@ We would like to extend our heartfelt thanks to all our team members who contrib
 
 ---
 
-Feel free to adjust any part of the content to better fit your project's specifics or your personal style!# Crashcoder
+Feel free to adjust any part of the content to better fit your project's specifics or your personal style!# Tech-thrive

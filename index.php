@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-    <title>Crashcoders.com</title>
+    <title>Tech-thrive.com</title>
     <link rel="stylesheet" href="style.css">
     <!-- ALl css here  -->
     <style>
@@ -139,7 +139,7 @@
             padding: 10px;
             color: #fff;
             border-radius: 110px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -1474,7 +1474,7 @@
     </div>
     <header>
         <div class="logo">
-            <a href="#"><img src="./All-photos/logobaliyanwebsite.jpeg" alt="logo"></a>
+            <a href="#"><img src="./All-photos/logoindex.jpeg" alt="logo"></a>
         </div>
 
         <div class="mainsearch">
@@ -1505,7 +1505,7 @@
                 </ul>
             </nav>
         </button>
-        <button id="contactBtn" class="contact-btn">Booking</button>
+        <button id="contactBtn" class="contact-btn">Chat with us</button>
         <div id="profileIcon" class="profile-icon">
             <img src="https://static.vecteezy.com/system/resources/previews/010/260/479/non_2x/default-avatar-profile-icon-of-social-media-user-in-clipart-style-vector.jpg"
                 alt="Profile Icon">
@@ -1630,7 +1630,7 @@
                     <li><a href="#" class="contact-link">Privacy Statement</a></li>
                     <li><a href="#" class="contact-link">Terms & Conditions</a></li>
                     <li><a href="https://i.im.ge/2024/09/13/fzUSWG.Screenshot-2024-09-13-020540.png"
-                        class="contact-link">About CrashCoder.com</a></li>
+                        class="contact-link">About Tech-thrive.com</a></li>
                 </ul>
             -->
         </div>
@@ -1697,7 +1697,7 @@
             <input type="number" id="rooms" name="rooms" min="1" value="1">
         </div>
 
-        <button class="hotelbook-button" type="submit">Search</button>
+        <button class="hotelbook-button" type="submit">Booking</button>
     </form>
         </div>
     </section>
@@ -3002,7 +3002,7 @@
                     </li>
 
                     <li><a href="termsandcond.html">Terms & Conditions</a></li>
-                    <li><a href="aboutus.html">About CrashCoder.com</a></li>
+                    <li><a href="aboutus.html">About Tech-thrive.com</a></li>
 
 
                 </ul>
@@ -3020,7 +3020,7 @@
             </div>
         </div>
         <div class="lastfooter">
-            <p>&copy; 2024 crashcoder.com All rights reserved.</p>
+            <p>&copy; 2024 Tech-thrive.com All rights reserved.</p>
         </div>
     </footer>
 

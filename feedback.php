@@ -221,6 +221,7 @@ background-color: #fff7ff;
         .banner video {
             position: absolute;
             right: 0;
+            width:1425px;
             bottom: 0;
             z-index: -1;
             border-radius: 20px;
@@ -228,7 +229,6 @@ background-color: #fff7ff;
 
         @media(min-aspect-ratio: 16/9) {
             .banner video {
-                width: 100%;
                 height: auto;
             }
         }
@@ -536,7 +536,7 @@ background-color: #fff7ff;
                     </li>
 
                     <li><a href="termsandcond.html">Terms & Conditions</a></li>
-                    <li><a href="aboutus.html">About CrashCoder.com</a></li>
+                    <li><a href="aboutus.html">About Tech-thrive.com</a></li>
 
 
                 </ul>
@@ -554,7 +554,7 @@ background-color: #fff7ff;
             </div>
         </div>
         <div class="lastfooter">
-            <p>&copy; 2024 crashcoder.com All rights reserved.</p>
+            <p>&copy; 2024 Tech-thrive.com All rights reserved.</p>
         </div>
     </footer>
 </body>
